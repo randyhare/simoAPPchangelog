@@ -1,0 +1,2 @@
+# simoAPPchangelog
+Change LOG APP
