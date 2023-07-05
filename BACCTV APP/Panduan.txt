@@ -26,12 +26,12 @@ Ketentuan:
 - Posisikan aplikasi di sebelah kiri layar ( Jangan di tengah ataupun di kanan )
 - Tidak harus berurutan dalam pembambilan data DVR ( Bisa dari CCTV 360 terlebih dahulu)
 - Tanggal Pada BA mengikuti tanggal BA tersebut digenerate.
-- sementara plikasi ini hanya dapat digunakan di site Balongan ( PC Teknisi )
+- sementara aplikasi ini hanya dapat digunakan di site Balongan ( PC Teknisi )
 - Perubahan Port/Channel di DVR mempengarui konsistensi BA di aplikasi ini
 - Posisi chanel/Port per tanggal 05-07-2023 menjadi standar, jika harus melakukan pemindahan port/channel, program perlu di update.
-- Nama Petugas di BA CCTV hasil generate perlu diedit manual urutannya, jika memang diperlukan.
+- Nama Petugas di BA CCTV hasil generate, bersifat statis.
 - Jika aplikasi mengalami kendala hubungi admin.
 
 
 Kelemahan :
-- tidak dapat mengakses DVR secara langsung Tanpa Login Web. (belum memungkinkan untuk saat ini)
+- Tidak dapat mengakses DVR secara langsung Tanpa Login Web. (belum memungkinkan untuk saat ini)
