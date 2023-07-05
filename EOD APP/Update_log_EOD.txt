@@ -1,0 +1,20 @@
+Catatan Update : 
+
+21 Mei 2023 - 26 Juni 2023
+- Perilisan Awal
+- Versi 1.0
+- Tampilan Minimalis
+- Versi 1.4 Rilis akhir untuk tampilan Hitam
+- Versi 1.5 Untuk perilisan awal dengan tampilan - GUI
+- Perbaikan Keseluruhan
+------------
+
+27 Juni 2023
+- Update Ke Versi 1.8
+- Memunculkan Loading saat aplikasi dijalankan
+- Perbaikan aplikasi Tidak Merespon saat Backup EOD
+- Penambahan Fitur Loading indikator saat Prosess Backup EOD
+
+04 Juli 2023
+- Update Ke Versi 1.9
+- Penambahan Fitur Reset

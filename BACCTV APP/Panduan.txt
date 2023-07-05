@@ -1,0 +1,37 @@
+Panduan Aplikasi BA CCTV OTOMATIS :
+
+Fitur :
+1. Diharapkan mempersingkat waktu pembuatan BA CCTV.
+2. Fitur membuka WEB DVR sekaligus ( 360, DVR1, DVR2 )
+3. Notifikasi proses selesai.
+4. Tampilan mudah dipahami.
+5. Format BA disesuaikan dengan BA yang sedang berjalan.
+6. File BA langsung disiapkan dan disimpan ke struktur lokasi folder Prventive Maintenance BA CCTV.
+7. Optimalisasi pada kode program.
+
+Langkah-Langkah Penggunaan :
+1. Buka aplikasi
+2. Siapkan tampilan WEB menu masing-masing DVR (Akan ada pesan jika ingin disiapkan oleh aplikasi )
+3. Login ke masing-masing device pada web
+4. posisikan layar WEB dalam keadaan full screen
+5. Klik tombol DVR sesuai dengan IP DVR yang sedang tampil
+6. Lakukan sampai ke semua masing-masing Device/DVR
+7. Input nama teknisi pada BA CCTV
+8. Input Nomor BA CCTV
+9. Klik tombol generate
+10. Jika berhasil, akan muncul konfirmasi untuk membuka folder BA
+11. Jika BA sudah sesuai, siap untuk dikirim Via Email seperti biasa.
+
+Ketentuan:
+- Posisikan aplikasi di sebelah kiri layar ( Jangan di tengah ataupun di kanan )
+- Tidak harus berurutan dalam pembambilan data DVR ( Bisa dari CCTV 360 terlebih dahulu)
+- Tanggal Pada BA mengikuti tanggal BA tersebut digenerate.
+- sementara plikasi ini hanya dapat digunakan di site Balongan ( PC Teknisi )
+- Perubahan Port/Channel di DVR mempengarui konsistensi BA di aplikasi ini
+- Posisi chanel/Port per tanggal 05-07-2023 menjadi standar, jika harus melakukan pemindahan port/channel, program perlu di update.
+- Nama Petugas di BA CCTV hasil generate perlu diedit manual urutannya, jika memang diperlukan.
+- Jika aplikasi mengalami kendala hubungi admin.
+
+
+Kelemahan :
+- tidak dapat mengakses DVR secara langsung Tanpa Login Web. (belum memungkinkan untuk saat ini)

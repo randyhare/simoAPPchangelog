@@ -1,0 +1,35 @@
+Panduan Aplikasi UPET Otomatis :
+
+Fitur :
+- Berbasis GUI 
+- Mempercepat prosesss pembuatan BA Upet dan rekap excel secara bersamaan secara digital
+- Otomatis mendeteksi folder sesuai dengan yang sudah ada
+- Hasil dari Folder/Data BA/Rekap excel tidak mempengaruhi yang sudah ada. Apalagi sampai dihapus
+- File BA kecil, Tidak lebih dari 7 MB, karena sudah ditanamkan algoritma untuk kompress gambar.
+- Terdapat penanganan-penanganan kondisi dalam kondisi tertentu
+- Data meter faktor dapat diupdate secara Online jika diperlukan
+- Dapat Menambahkan maksimal 3 Sampel Data sesuai kebutuhan
+- Format BA dan Rekap Uji petik di program semirip mungkin dengan yang konvensional
+- BA Langsung disimpan sesuai Struktur folder DI PC Teknisi Balongan
+
+Langkah-Langkah Penggunaan :
+1. Buka Aplikasi BA_UPET_AUTOMATION
+2. Pada menu setting isi semua data di halaman ini, untuk membuka step berikutnya
+4. Isi data sampel sesuai jumlah sampel yang sudah ditentukan di halaman setting
+5. Isi data sampel yang diperlukan (Disarankan urut dari atas sampe bawah)
+6. Pilih dokumentasi di masing masing data, dengan Klik Tombol "+" dan "O" Untuk membuka file
+7. Jika berwarna merah,artinya belum ada data yang di tambahkan (Wajib)
+8. Periksa kembali data yang sudah diinput, jika sudah sesuai, Kembali ke menu Setting
+9. Klik Tombol "Generate Data"
+10. Tunggu sampai notif berhasil muncul
+
+
+Ketentuan:
+- Aplikasi ini membutuhkan Koneksi internet untuk verivikasi dan mengambil data Nama teknisi dan Meter Faktor terbaru
+- Jika menekan tombol Generate data 2 kali, Akan ditambahkan sheet baru di rekap excel, kemudian segera koreksi Dan hapus sheet yang tidak diperlukan
+- Jangan Hapus sheet paling pertama pada Excel yang dibuat aplikasi. karena dapat menyebabkan data inkonsisten
+- Jika ada perubahan Meter faktor, Hubungi admin developer (Simo)
+- Jika aplikasi mengalami kendala hubungi admin.
+
+Kelemahan :
+- Belum tersedia Untuk Uji petik produk avtur 

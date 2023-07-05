@@ -1,0 +1,30 @@
+Panduan Aplikasi Backup EOD Otomatis :
+
+Fitur :
+- Backup Folder EOD Yang diperlukan Secara otomatis
+  1. Error report
+  2. Printer1_jnl
+  3. Printer2-Report
+- Generate Data shipment event log - Harian
+- Generate Data shipment success - harian
+- Tidak mengganggu Folder Backup Yang sudah ada
+- Aplikasi Minimalis
+- Disediakan folder Template
+
+Langkah-Langkah Penggunaan :
+1. Buka Aplikasi Backup EOD
+2. Pastikan tanggal Backup EOD sudah sesuai
+3. Tunggu prosess sampai selesai
+4. Pastikan muncul pesan berhasil di aplikasi
+5. Lanjut prosess pembuatan error report dengan bahan yang diediakan
+6. Gunakan aplikasi Gereate Data error report seperti biasa
+
+Ketentuan:
+- Harap Backup EOD H-0/hari itu juga
+- Jangan Hapus Folder template karena aplikasi akan rusak
+- Aplikasi ini hanya berfungsi untuk tahun 2023 (sampai 31 Desember 2023) setelah itu perlu diperbaharui lagi
+- Jika aplikasi mengalami kendala hubungi admin.
+
+Kelemahan :
+- Belum Bisa ambil data LO Closing harian ( Perlu akses ke folder dispatch )
+{Solusinya Copy File data LO Closing ke Folder template, Kemudian hapus setelah selesai}
