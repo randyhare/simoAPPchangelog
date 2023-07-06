@@ -1,4 +1,7 @@
 Catatan Update : 
 
-4 Juli 2023
+04 Juli 2023
 - Perilisan awal Version 1.0
+
+05 Juli 2023
+- Menambahkan notif berhasil pada menu utama.
