@@ -1,4 +1,4 @@
-Catatan Update : 
+Catatan Update Aplikasi BA_CCTV Automation : 
 
 04 Juli 2023
 - Perilisan awal Version 1.0
