@@ -18,3 +18,9 @@ Catatan Update :
 04 Juli 2023
 - Update Ke Versi 1.9
 - Penambahan Fitur Reset
+
+07 Juli 2023
+- Update Ke Versi 1.10
+- Optimisasi code
+- Gi Error dan sukses dengan error sudah otomatis
+- Simplifikasi proses ( Backup EOD dan Generate BA dalam satu waktu )
