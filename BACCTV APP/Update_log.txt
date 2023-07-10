@@ -6,3 +6,7 @@ Catatan Update Aplikasi BA_CCTV Automation :
 05 Juli 2023
 - Update ke versi 1.1
 - Menambahkan notif berhasil pada menu utama.
+
+10 Juli 2023
+- Update ke versi 1.2
+- Perbaikan gambar
