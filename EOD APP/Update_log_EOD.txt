@@ -24,3 +24,7 @@ Catatan Update Aplikasi EOD Automation:
 - Optimisasi code
 - Gi Error dan sukses dengan error, sudah otomatis
 - Simplifikasi proses ( Backup EOD dan Generate BA dalam satu waktu )
+
+15 Juli 2023
+- Update Ke Versi 1.10.1
+- Peningkatan akurasi deteksi gi error
