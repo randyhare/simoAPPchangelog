@@ -6,17 +6,17 @@ Fitur :
   2. Printer1_jnl
   3. Printer2-Report
 - Generate Data shipment event log - Harian
-- Generate Data shipment success - harian
+- Generate Data shipment success - Harian
 - Tidak mengganggu Folder Backup Yang sudah ada
-- Aplikasi Minimalis
+- Generate File BA Error Uploading (Word).
 - Disediakan folder Template
 
 Langkah-Langkah Penggunaan :
 1. Buka Aplikasi Backup EOD
-2. Pastikan tanggal Backup EOD sudah sesuai
-3. Tunggu prosess sampai selesai
-4. Pastikan muncul pesan berhasil di aplikasi
-5. Lanjut prosess pembuatan error report dengan bahan yang diediakan
+2. Input 4 data yang diperlukan.
+3. Pastikan tanggal Backup EOD sudah sesuai.
+4. Tunggu prosess sampai selesai
+5. Pastikan muncul pesan berhasil di aplikasi
 6. Gunakan aplikasi Gereate Data error report seperti biasa
 
 Ketentuan:
