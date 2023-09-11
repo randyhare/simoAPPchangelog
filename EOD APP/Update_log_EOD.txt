@@ -32,3 +32,6 @@ Catatan Update Aplikasi EOD Automation:
 20 Juli 2023
 - Update Ke Versi 1.10.2
 - Peningkatan akurasi deteksi gi error
+
+11 September 2023
+- Peningkatan akurasi deteksi gi error
