@@ -35,3 +35,6 @@ Catatan Update Aplikasi EOD Automation:
 
 11 September 2023
 - Peningkatan akurasi deteksi gi error
+
+11 Oktober 2023
+- Peningkatan akurasi deteksi gi error (Lock table Overflow)
