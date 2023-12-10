@@ -38,3 +38,7 @@ Catatan Update Aplikasi EOD Automation:
 
 11 Oktober 2023
 - Peningkatan akurasi deteksi gi error (Lock table Overflow)
+
+10 Desember 2023
+- Update Ke Versi 1.10.3
+- Implementasi fitur tanda tangan digital
