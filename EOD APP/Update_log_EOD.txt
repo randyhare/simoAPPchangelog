@@ -42,3 +42,7 @@ Catatan Update Aplikasi EOD Automation:
 10 Desember 2023
 - Update Ke Versi 1.10.3
 - Implementasi fitur tanda tangan digital
+
+19 Desember 2023
+- Update Ke Versi 1.10.3.1
+- mematikan fitur tanda tangan digital
