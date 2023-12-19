@@ -37,3 +37,7 @@ Catatan Update Aplikasi UPET Automation :
 10 Desember 2023
 - Update Ke Versi 1.3.2
 - Implementasi fitur tanda tangan digital
+
+19 Desember 2023
+- Update Ke Versi 1.3.2.1
+- mematikan fitur tanda tangan digital
