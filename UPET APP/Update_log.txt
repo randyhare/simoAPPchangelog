@@ -41,3 +41,5 @@ Catatan Update Aplikasi UPET Automation :
 19 Desember 2023
 - Update Ke Versi 1.3.2.1
 - mematikan fitur tanda tangan digital
+
+test link : https://raw.githubusercontent.com/randyhare/simoAPPchangelog/main/BACCTV%20APP/Update_log.txt
