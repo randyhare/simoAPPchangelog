@@ -9,6 +9,7 @@ Fitur :
 - Generate Data shipment success - Harian
 - Tidak mengganggu Folder Backup Yang sudah ada
 - Generate File BA Error Uploading (Word).
+- Menghitung Document dan Gi Error Otomatis
 - Disediakan folder Template
 
 Langkah-Langkah Penggunaan :
