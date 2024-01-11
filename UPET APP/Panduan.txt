@@ -4,7 +4,7 @@ Fitur :
 - Berbasis GUI 
 - Mempercepat prosesss pembuatan BA Upet dan rekap excel secara bersamaan secara digital
 - Otomatis mendeteksi folder sesuai dengan yang sudah ada
-- Hasil dari Folder/Data BA/Rekap excel tidak mempengaruhi yang sudah ada. Apalagi sampai dihapus
+- Hasil dari Folder/Data BA/Rekap excel tidak mempengaruhi yang sudah ada.
 - File BA kecil, Tidak lebih dari 7 MB, karena sudah ditanamkan algoritma untuk kompress gambar.
 - Terdapat penanganan-penanganan kondisi dalam kondisi tertentu
 - Data meter faktor dapat diupdate secara Online jika diperlukan
