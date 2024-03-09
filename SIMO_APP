@@ -14,3 +14,8 @@ Agustus - Desember 2023
 - Menambahkan fitur untuk mempermudah LOTO switch sarfas
 - Penambahan tampilan monitoring sarfas Non-Aktif.
 - Perbaikan Menu LOTO
+
+09 Maret 2024 - V 1.3
+- Menambahkan fitur setting dan Login di tingkat SVP Teknisi
+- Menambahkan Menu edit, Tambah data penyalur, meter faktor, K-Faktor
+- Penambahan Library Pandas
