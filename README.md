@@ -1,5 +1,5 @@
 # simoAPPchangelog
-Portal InformasI Change LOG APPLIKASI By SIMO..
+Portal InformasI Change LOG APPLIKASI..
 - EOD AUTOMATION
 - UPET AUTOMATION
 - BA CCTV AUTOMATION
